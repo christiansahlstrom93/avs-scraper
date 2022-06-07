@@ -1,0 +1,16 @@
+{
+  "name": "avs-scraper",
+  "version": "1.0.0",
+  "description": "Scraping avs conent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Christian Sahlström",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^14.2.1"
+  }
+}
